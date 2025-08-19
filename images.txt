@@ -1,11 +1,12 @@
 
 #支持私库
+ollama/ollama:0.11.5-rc2
 docker.getcollate.io/openmetadata/server:1.9.1
 docker.getcollate.io/openmetadata/db:1.9.1
 docker.elastic.co/elasticsearch/elasticsearch:8.11.4
 docker.getcollate.io/openmetadata/ingestion:1.9.1
 docker.getcollate.io/openmetadata/postgresql:1.9.1
-ollama/ollama:0.11.5-rc2-rocm
+
 #
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
