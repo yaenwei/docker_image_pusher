@@ -1,6 +1,6 @@
 
 #支持私库
-ollama/ollama:0.12.0
+ollama/ollama:0.12.10
 
 #
 #支持指定架构
