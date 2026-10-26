@@ -1,6 +1,6 @@
 
 #支持私库
-ollama/ollama:0.12.10
+docker.io/gliderlabs/herokuish:latest
 
 #
 #支持指定架构
